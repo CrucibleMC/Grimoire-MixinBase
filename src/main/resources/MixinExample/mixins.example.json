@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "io.github.crucible.mixinexample.mixins",
+  "mixins":[],
+  "server": [
+    "MixinExampleServer"
+  ],
+  "client": [
+    "MixinExampleClient"
+  ],
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7.11",
+  "refmap":"changeme.refmap.json"
+}
